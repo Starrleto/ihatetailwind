@@ -1,0 +1,22 @@
+body{
+    background-color: #E0E0E0;
+}
+
+.bg-color{
+    background-color: #DBCCB0;
+}
+
+.header-text{
+    color: #573D24;
+    font-family: jamhuria;
+}
+
+.header-text-2{
+    color: #7E5A37;
+    font-family: jamhuria;
+}
+
+@font-face {
+    font-family: jamhuria;
+    src: url(../assets/Jomhuria-Regular.ttf);
+}
